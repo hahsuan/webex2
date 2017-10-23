@@ -20,7 +20,7 @@ http://www.andreagalanti.it
   font-weight: bold;
   font-style: normal;
 }
-@font-face {
+//@font-face {
   font-family: 'Lato';
   src: url('../fonts/lato/lato-bolditalic.eot');
   src: url('../fonts/lato/lato-bolditalic.eot?#iefix') format('embedded-opentype'), url('../fonts/lato/lato-bolditalic.woff') format('woff'), url('../fonts/lato/lato-bolditalic.ttf') format('truetype'), url('../fonts/lato/lato-bolditalic.svg#latobold-italic') format('svg');
