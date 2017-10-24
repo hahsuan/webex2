@@ -142,6 +142,7 @@ filter: alpha(opacity=95) !important;
 .mybutton_standard {
 	border: 1px solid #FFA500;
 	color: #fff;
+	background-color: #A52A2A;
 }
 
 .mybutton_cyano{
