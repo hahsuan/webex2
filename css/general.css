@@ -159,8 +159,7 @@ filter: alpha(opacity=95) !important;
 	border: 1px solid #FFA500;
 	color: #000080 !important;
 	background: #FFFACD;
-	position: relative;
-	left:1pt;
+	
 }
 
 .button_down img {
