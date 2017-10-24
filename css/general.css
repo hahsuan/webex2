@@ -153,8 +153,9 @@ filter: alpha(opacity=95) !important;
 
 .mybutton_cyano:hover{
 	border: 1px solid #FFA500;
-	color: #4A90BE !important;
-	background: rgba(204, 204, 204, 0);
+	color: #000080 !important;
+	background: #FFFACD;
+	left:100pt;
 }
 
 .button_down img {
