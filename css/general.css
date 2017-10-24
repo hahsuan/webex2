@@ -149,6 +149,8 @@ filter: alpha(opacity=95) !important;
 	border: 3px solid #FFA500;
 	color: #000080 !important;
 	background: #F5F5DC;
+	position: relative;
+	left: 3px;
 }
 
 .mybutton_cyano{
@@ -163,7 +165,7 @@ filter: alpha(opacity=95) !important;
 	color: #000080 !important;
 	background: #FFFACD;
 	position: relative;
-	left: 1px;
+	left: 3px;
 	
 }
 
