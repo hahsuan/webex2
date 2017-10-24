@@ -308,12 +308,12 @@ color: #ECEBEB;
 }
 
 .content-section-a {
-	background-color: #DAA520;
+	background-color: #FAFAD2;
 	padding: 90px 0; 
 }
 
 .content-section-b {
-	border-top: 1px solid #ADFF2F;
+	/*border-top: 1px solid #ADFF2F;*/
 	border-bottom: 1px solid #ADFF2F;
 	padding: 90px 0; 
 }
@@ -326,7 +326,7 @@ color: #ECEBEB;
 }
 
 .section-heading-spacer {
-	border-top: 3px solid #ADFF2F;
+	/*border-top: 3px solid #ADFF2F;*/
 	width: 200px;
 	float: left;
 }
