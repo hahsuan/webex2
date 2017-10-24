@@ -147,7 +147,7 @@ filter: alpha(opacity=95) !important;
 
 .mybutton_standard:hover{
 	border: 3px solid #FFA500;
-	color: #000080;
+	color: #000080 !important;
 	background: #F5F5DC;
 }
 
@@ -155,14 +155,15 @@ filter: alpha(opacity=95) !important;
 	border: 3px solid #FFA500;
 	color: #fff;
 	background-color: #A52A2A;
-	position: relative;
-	left: 1px;
+	
 }
 
 .mybutton_cyano:hover{
 	border: 3px solid #FFA500;
 	color: #000080 !important;
 	background: #FFFACD;
+	position: relative;
+	left: 1px;
 	
 }
 
