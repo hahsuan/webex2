@@ -331,7 +331,7 @@ color: #ECEBEB;
 .banner {
 	padding: 100px 0;
 	color: #D2691E;
-	background: url(../img/intro/P7.jpg) no-repeat center center;
+	background: url(../img/intro/P7.jpg) /*no-repeat center center;
 	background-size: cover;
 }
 
