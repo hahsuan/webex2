@@ -39,6 +39,14 @@
         <input type="radio" name="SVet" value="n"> 否<br></td>
     </tr>    
     <tr>
+    <td align='right' width='200'>系別</td>
+    <td><select name="SDepart" form="SDepart">
+    <option value="資工系">資工系</option>
+    <option value="資傳系">資傳系</option>
+    <option value="休閒系">休閒系</option>
+    <option value="光通系">光通系</option></td>
+</select>
+    <tr>
         <td align='right' width='200'>意見</td>
         <td><input type='text' name='SComment' size='50'>　</td>
     </tr>
