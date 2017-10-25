@@ -2,7 +2,7 @@
 <body>
 
 <p>畢業旅行投票-確認投票</p>
-<form method='post' action='save1.php'>
+
 <html lang="lang="zh-Hant-TW"">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
